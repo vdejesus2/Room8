@@ -21,7 +21,7 @@ puts("you open the door and find yourself in a dungeon with five doors");
                                         switch(choice)
                                         {
                                                case 1:
-                                                puts("NO! IT'S A TRAP! you enter an army of knights point their swords at you and arrest you for trespassing as you open the door! GAME OVER!");
+                                                puts("NO! IT'S A TRAP! you enter in a courtyard occupied by an army of knights point their swords at you and arrest you for trespassing as you open the door! GAME OVER!");
                                                 break;
                                                case 2:
                                                 puts("OH NO! The door you open leads you into a pit of spikes! You loss your footing and fell into the pit! GAME OVER!");
